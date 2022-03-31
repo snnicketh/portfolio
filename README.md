@@ -2,8 +2,6 @@
 
 ### _Personal Portfolio built using ReactJs and Animation libraries, hope you like it. Tweak it and use it !!_
 
-### Demo Video
-
 ### Link :link: https://snnick.eth/
 
 ## Images
