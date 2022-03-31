@@ -4,8 +4,6 @@
 
 ### Link :link: https://snnick.eth/
 
-## Images
-
 <!-- <img src='./project_images/portfolio.png/' /> -->
 
 ## Mobile Responsive
